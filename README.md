@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>Welcome to my GitHub, I am a French student living in Lyon. I completed a bachelor's degree in Design (web design as my specialty). I am currently in my second year of a Bachelor's degree in web development.</p>
+<p>Welcome to my GitHub, I am Caroline, a French student living in Lyon. I completed a bachelor's degree in Design (web design as my specialty). I am currently in my second year of a Bachelor's degree in web development.</p>
 <p>I do back-end as well as front-end development. My most used framework is probably Symfony.</p>
 
 <br>
