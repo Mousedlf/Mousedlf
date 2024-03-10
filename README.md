@@ -1,6 +1,7 @@
 ### Hi there 👋
-<hr>
+<p>Welcome to my GitHub, I am a French student living in Lyon. I completed a bachelor's degree in Design (web design as my specialty). I am currently in my second year of a Bachelor's degree in web development. My most used framework is probably Symfony.</p>
 
+<br>
 
 <h2>Techs</h2>
 <p align="center">
