@@ -4,7 +4,7 @@
 
 <br>
 
-<h2>Techs</h2>
+<h2>Used technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,figma,gitlab,html,js,linux,mongodb,mysql,neovim,nextjs,nodejs,php,postgres,postman,py,react,symfony,threejs,ts" />
